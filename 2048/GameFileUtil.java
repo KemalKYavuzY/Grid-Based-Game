@@ -1,4 +1,4 @@
-package hw3;
+package GridBasedGame;
 
 import java.io.BufferedReader;
 
